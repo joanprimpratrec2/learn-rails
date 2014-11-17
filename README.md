@@ -29,6 +29,8 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
+Learning Rails with a tutorial from the RailsApps project.
+
 Documentation and Support
 -------------------------
 
